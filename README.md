@@ -65,15 +65,15 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexanderauer13&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexanderauer13&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexanderauer13&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderauer13&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderauer13&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderauer13&layout=compact&theme=default" />
 </p>
 
 ---
@@ -87,14 +87,14 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexanderauer13/alexanderauer13/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexanderauer13&theme=flat&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alexanderauer13&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
